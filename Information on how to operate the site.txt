@@ -1,0 +1,23 @@
+1-The link to enter the main page of the pharmacy by the user or the admin:
+
+http://localhost/med/login.php 
+____________________________________________________________
+2- Login information:
+
+Owner login information: 
+User Name: admin
+Password : a
+
+
+Pharmacist login information:
+User Name: user1
+Password : u
+
+
+Manager login information:
+User Name: manager
+Password : m
+____________________________________________________________
+
+3-The database file is contained within the file :
+medicine.sql
